@@ -3,6 +3,7 @@ Algoritmo "retangulo"
 // Professor: Nelio Alves
 // Estrutura de Sequencial
 // Lista de Exercícios
+// Github: @pythanx
 Var
    base, altura, area, perimetro, diagonal: real
 
