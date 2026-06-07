@@ -1,0 +1,30 @@
+Algoritmo "idades"
+// Curso de Algoritmos e Lógica de Programação
+// Professor: Nelio Alves
+// Estrutura Sequencial
+// Lista de Exercícios
+// Github: @pythanx
+
+Var
+   nome1, nome2: caractere
+   idade1, idade2: inteiro
+   media: real
+
+Inicio
+   escreval("Dados da primeira pessoa: ")
+   escreval("Nome: ")
+   leia(nome1)
+   escreval("Idade:")
+   leia(idade1)
+   
+   escreval("Dados da segunda pessoa: ")
+   escreval("Nome: ")
+   leia(nome2)
+   escreval("Idade:")
+   leia(idade2)
+   
+   media <- (idade1 + idade2) / 2
+   
+   escreval("A idade média de ", nome1, " e ", nome2, " é de", media:5:1, " anos.")
+
+Fimalgoritmo
