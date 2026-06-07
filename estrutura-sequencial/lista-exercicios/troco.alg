@@ -1,4 +1,4 @@
-Algoritmo "soma"
+Algoritmo "troco"
 // Curso de Algoritmos e Lógica de Programação
 // Professor: Nelio Alves
 // Estrutura Sequencial
