@@ -3,6 +3,7 @@ Algoritmo "terreno"
 // Professor: Nelio Alves
 // Estrutura Sequencial
 // Lista de exercícios
+// Github: @pythanx
 
 Var
    area, largura, comprimento, precoMetroQuad,preco_terreno: real
